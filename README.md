@@ -1,0 +1,1 @@
+A simple and efficient ToDo application that helps you manage your tasks effectively.
